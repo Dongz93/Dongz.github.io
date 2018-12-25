@@ -1,4 +1,2 @@
-你好
-## Header 2欢迎来到
-## Header 2Dongz的Blog
-## Header 2
+欢迎来到Dongz的Blog
+现在还是空的XD
